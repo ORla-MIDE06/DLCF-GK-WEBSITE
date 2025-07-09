@@ -38,7 +38,7 @@ function App() {
     <div className="App" style={{ overflowX: 'hidden' }}>
 
       {/* Background Wrapper */}
-      <section className="bg-[url('/images/dlcf-bg.jpg')] bg-cover bg-center bg-no-repeat bg-opacity-99  w-full h-[800px] lg:w-full lg:h-[820px]  md:h-[706px] ">
+      <section className="bg-[url('/images/dlcf-bg.jpg')] bg-cover bg-center bg-no-repeat bg-opacity-99  w-full h-[860px] lg:w-full lg:h-[820px]  md:h-[706px] ">
         <div className="cov bg-black/50 min-h-screen flex flex-col justify-between ">
 
           <nav className="flex  md:flex-col lg:flex-row justify-between items-center px-2 md:px-3 lg:px-8 py-4 gap-4 bg-transparent">
@@ -144,7 +144,7 @@ function App() {
             </h2>
             <h1 className="  lg:flex-row  items-center  text-[30px] lg:text-[48px] font-outfit font-semibold  leading-snug ">
               Home of Saintly <span className="text-[#E1E0FF]"> Intellectuals!
-                <img src="/images/icon9.svg" className=" relative lg:left-[685px] lg:top-[-10px] left-[90px] md:left-[380px] " />
+                <img src="/images/icon9.svg" className=" relative lg:left-[685px] lg:top-[-10px] top-[-7px] left-[80px] md:left-[380px] lg:w-[318.66px] w-[260px] " />
               </span>
             </h1>
             <p className="text-[#FFFFFF] max-w-xl mx-auto text-[16px] lg:text-base">
